@@ -1,1 +1,2 @@
-print("Script in Development")
+print("Script in Development ")
+print("นะครับสุดหล่อ")
