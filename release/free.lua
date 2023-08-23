@@ -1,2 +1,2 @@
 print("Script in Development ")
-print("นะครับสุดหล่อ.s")
+print("นะครับสุดหล่อ.ssdsd")
